@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Otter Library System</string>
+    <string name="create_account">  Create Account  </string>
+    <string name="Username">Username: </string>
+    <string name="Passward">Passward: </string>
+</resources>
