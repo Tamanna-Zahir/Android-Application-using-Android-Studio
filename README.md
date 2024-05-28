@@ -28,8 +28,5 @@ Contributions to the Otter Library System are welcome! If you have suggestions o
 ## License
 This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
 
-## Acknowledgements
-- [Any contributors or sources you would like to acknowledge]
-
 ## Contact
 For any queries or feedback, please reach out to [tamannakhankakar@gmail.com].
